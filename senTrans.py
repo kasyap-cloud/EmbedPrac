@@ -11,3 +11,5 @@ embedding = model.encode(paragraph)
 print("Embedding Vector:", embedding)
 print("Shape:", embedding.shape) 
 print("max", np.argmax(embedding))
+
+# Demo line to check if push works.
